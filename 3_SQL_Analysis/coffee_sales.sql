@@ -206,3 +206,4 @@ FROM coffee_sales
 WHERE EXTRACT (MOnth FROM transaction_date) = 5
 GROUP BY day
 ORDER BY total_sales DESC 
+
