@@ -145,7 +145,7 @@ Demand forecasting can reduce waste and improve staffing precision.
 Growth is not only about selling more.
 It’s also about operating smarter.
 
-
+![image alt](https://github.com/Aneeq-19/Coffee-sales-analysis/blob/6012b1b19fbb7183028499c0fe464341296e7c00/dashboard.png)
 
 
 📊 The Solution
