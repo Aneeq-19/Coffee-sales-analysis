@@ -1,5 +1,28 @@
 Coffee Shop Sales Intelligence
 
+📌 The Business Problem
+
+A growing multi-location coffee chain was generating thousands of daily transactions — yet leadership lacked clarity on a critical question:
+
+What is actually driving our revenue?
+
+Despite having detailed sales records, management could not confidently determine:
+
+Is revenue driven by product popularity or timing?
+
+Are certain hours significantly more valuable than others?
+
+Do all stores perform equally — or are some structurally stronger?
+
+Are operational resources aligned with real demand patterns?
+
+Where should growth efforts be focused?
+
+Data existed.
+Insight did not.
+
+This project was built to convert raw transactional data into structured, decision-ready intelligence.
+
 A Revenue & Behavioral Analysis Case Study
 
 📌 The Business Problem
